@@ -1,0 +1,35 @@
+#main{
+    width: 500px;
+    height: 600px;
+    background-color: #fff;
+
+}
+
+#display {
+    width: 100%;
+    height: auto;
+    background-color: silver;
+}
+input{
+    width: 100px;
+    height: auto;
+    
+}
+
+input[type="button"] {
+    width: 20%; 
+    height: 60px;
+    font-size: 25px;
+    margin: 2%;
+    background-color: #e0e0e0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0.5px 1px 1.5px rgba(0, 0, 0, 0.1);
+}
+
+input[type="text"] {
+    width: 350px;
+    height: 50px;
+    font-size: 25px;
+}
